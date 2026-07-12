@@ -15,7 +15,7 @@
 
 Скачайте готовую сборку клиента:
 
-- [Скачать 1.21.1 client.zip](https://github.com/ohSmmy/MINECRAAAAAFT/releases/download/v1.21.1/1.21.1%20client.zip)
+- [Скачать 1.21.1.client.zip](https://github.com/ohSmmy/MINECRAAAAAFT/releases/download/v1.21.1/1.21.1.client.zip)
 - [Все версии](https://github.com/ohSmmy/MINECRAAAAAFT/releases/latest)
 
 ### 3. Импортируйте сборку в лаунчер
