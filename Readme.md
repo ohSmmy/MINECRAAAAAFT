@@ -6,7 +6,7 @@
 
 ### 1. Скачайте лаунчер
 
-Скачайте и установите **Prism Launcher** (версия 11.0.2-1):
+Скачайте и установите **Prism Launcher**:
 
 - [Скачать PrismLauncher-Windows-MSVC-Setup-11.0.2-1.exe](https://github.com/Diegiwg/PrismLauncher-Cracked/releases/download/11.0.2-1/PrismLauncher-Windows-MSVC-Setup-11.0.2-1.exe)
 - [Все версии](https://github.com/Diegiwg/PrismLauncher-Cracked/releases/latest)
