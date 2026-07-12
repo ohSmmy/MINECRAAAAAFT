@@ -1,4 +1,4 @@
-# Minecraft Server
+# [Minecraft Server](https://github.com/ohSmmy/MINECRAAAAAFT)
 
 Добро пожаловать на наш Minecraft сервер!
 
