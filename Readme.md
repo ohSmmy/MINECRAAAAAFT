@@ -15,7 +15,7 @@
 
 Скачайте готовую сборку клиента:
 
-- [Скачать 1.21.1.client.zip](https://github.com/ohSmmy/MINECRAAAAAFT/releases/download/v1.21.1/1.21.1.client.zip)
+- [Скачать MINECRAAAAAFT.zip](https://github.com/ohSmmy/MINECRAAAAAFT/releases/download/MINECRAAAAAFT/MINECRAAAAAFT.zip)
 - [Все версии](https://github.com/ohSmmy/MINECRAAAAAFT/releases/latest)
 
 ### 3. Импортируйте сборку в лаунчер
@@ -23,7 +23,7 @@
 1. Откройте **Prism Launcher**
 2. Нажмите кнопку `Добавить экземпляр` в левом нижнем углу
 3. Выберите `Импорт` → `Обзор`
-4. Найдите и выберите скачанный файл `1.21.1 client.zip`
+4. Найдите и выберите скачанный файл `MINECRAAAAAFT.zip`
 5. Нажмите `Создать экземпляр`
 
 ### 4. Запустите игру
