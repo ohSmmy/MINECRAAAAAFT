@@ -1,7 +1,13 @@
 {
   "DO_NOT_CHANGE_IT": 2,
-  "selectedModpack": "",
-  "installedModpacks": {},
+  "selectedModpack": "217.177.44.5-25565",
+  "installedModpacks": {
+    "217.177.44.5-25565": {
+      "hostAddress": "217.177.44.5:25565",
+      "serverAddress": "217.177.44.5:25565",
+      "requiresMagic": true
+    }
+  },
   "updateSelectedModpackOnLaunch": true,
   "selfUpdater": false,
   "syncAutoModpackVersion": true,
