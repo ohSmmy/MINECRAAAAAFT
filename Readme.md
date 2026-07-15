@@ -4,40 +4,17 @@
 
 ## Установка
 
-### 1. Скачайте лаунчер
+### 1. Скачайте и установите
 
-Скачайте и установите **Prism Launcher**:
+- [PrismLauncher-Windows-MSVC-Setup-11.0.2-1.exe](https://github.com/Diegiwg/PrismLauncher-Cracked/releases/download/11.0.2-1/PrismLauncher-Windows-MSVC-Setup-11.0.2-1.exe) | [Все версии](https://github.com/Diegiwg/PrismLauncher-Cracked/releases/latest)
+- [MINECRAAAAAFT.zip](https://github.com/ohSmmy/MINECRAAAAAFT/releases/latest/download/MINECRAAAAAFT.zip)
 
-- [Скачать PrismLauncher-Windows-MSVC-Setup-11.0.2-1.exe](https://github.com/Diegiwg/PrismLauncher-Cracked/releases/download/11.0.2-1/PrismLauncher-Windows-MSVC-Setup-11.0.2-1.exe)
-- [Все версии](https://github.com/Diegiwg/PrismLauncher-Cracked/releases/latest)
+### 2. Импортируйте сборку
 
-### 2. Скачайте сборку клиента
+Перетащите файл **MINECRAAAAAFT.zip** прямо в окно **Prism Launcher** и нажмите **ОК**.
 
-Скачайте готовую сборку клиента:
+### 3. Запустите и подключитесь
 
-- [Скачать MINECRAAAAAFT.zip](https://github.com/ohSmmy/MINECRAAAAAFT/releases/download/MINECRAAAAAFT/MINECRAAAAAFT.zip)
-- [Все версии](https://github.com/ohSmmy/MINECRAAAAAFT/releases/latest)
-
-### 3. Импортируйте сборку в лаунчер
-
-1. Откройте **Prism Launcher**
-2. Нажмите кнопку `Добавить экземпляр` в левом нижнем углу
-3. Выберите `Импорт` → `Обзор`
-4. Найдите и выберите скачанный файл `MINECRAAAAAFT.zip`
-5. Нажмите `Создать экземпляр`
-
-### 4. Запустите игру
-
-1. Выберите созданный экземпляр в списке
-2. Нажмите `Запустить`
-3. В меню игры выберите `Сетевая игра`
-4. Выберите сервер `MINECRAAAAAFT` и нажмите `Подключиться`
-
-## Примечания
-
-- Убедитесь, что у вас достаточно места на диске
-- Рекомендуется иметь минимум 4 ГБ свободной оперативной памяти
-
-## Помощь
-
-Если у вас возникли вопросы или проблемы, создайте [Issue](https://github.com/ohSmmy/MINECRAAAAAFT/issues) на GitHub.
+1. Выберите экземпляр в списке и нажмите **Запустить**
+2. В меню игры выберите **Сетевая игра**
+3. Выберите сервер **MINECRAAAAAFT** и нажмите **Подключиться**
