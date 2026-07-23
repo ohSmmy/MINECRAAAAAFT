@@ -2,7 +2,8 @@
 
 ### 1. Скачайте и установите
 
-- **Prism Launcher** — [Скачать](https://github.com/Diegiwg/PrismLauncher-Cracked/releases/download/11.0.2-1/PrismLauncher-Windows-MSVC-Setup-11.0.2-1.exe) | [Все версии](https://github.com/Diegiwg/PrismLauncher-Cracked/releases/latest)
+- **Prism Launcher** — [Все версии](https://github.com/Diegiwg/PrismLauncher-Cracked/releases/latest)
+  - Для Windows рекомендуется версия **PrismLauncher-Windows-MSVC-Setup**
 - **Сборка сервера** — [Скачать](https://github.com/ohSmmy/MINECRAAAAAFT/releases/latest/download/MINECRAAAAAFT.zip)
 
 ### 2. Импортируйте сборку
